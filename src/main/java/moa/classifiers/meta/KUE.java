@@ -19,7 +19,7 @@ import moa.tasks.TaskMonitor;
 /**
 * Kappa Updated Ensemble for drifting data stream mining
 * 
-* @author Alberto Cano
+* @author Alberto Cano (acano@vcu.edu)
 */
 
 public class KUE extends AbstractClassifier implements MultiClassClassifier {

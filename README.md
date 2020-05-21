@@ -8,4 +8,4 @@ https://link.springer.com/article/10.1007/s10994-019-05840-z
 
 # Citing Kappa Updated Ensemble
 
-> A. Cano and B. Krawczyk. Kappa Updated Ensemble for Drifting Data Stream Mining. Machine Learning, DOI: 10.1007/s10994-019-05840-z, 2019.
+> A. Cano and B. Krawczyk. Kappa Updated Ensemble for Drifting Data Stream Mining. Machine Learning, 109(1), 175-218, 2020.
